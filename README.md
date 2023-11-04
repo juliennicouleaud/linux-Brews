@@ -1,4 +1,4 @@
-Ce script permet d'automatiser l'installation et la mise à jour via [Homebrew](https://brew.sh "Homebrew — The missing package manager for macOS (or Linux)") des logiciels que j'utilise habituellement sur Linux (Debian).
+Ce script permet d'automatiser l'installation et la mise à jour via [Homebrew](https://brew.sh "Homebrew — The missing package manager for macOS (or Linux)") de logiciels que j'utilise habituellement sur Linux (Debian) et qui ne sont pas disponibles via `apt` (ou alors dans des versions obsolètes).
 
 ## Prérequis
 
