@@ -9,6 +9,7 @@ Ce script permet d'automatiser l'installation et la mise à jour via [Homebrew](
 ## Dépendances
 
 - [Homebrew](https://brew.sh "Homebrew — The missing package manager for macOS (or Linux)")
+- build-essential : `sudo apt-get install build-essential`
 
 ## Exécution
 
