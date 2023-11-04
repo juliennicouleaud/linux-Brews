@@ -15,8 +15,8 @@ tap 'colindean/fonts-nonfree'
 
 brew 'hugo'
 brew 'tailspin'
+brew 'cheat'
+brew 'lazygit'
 
-# brew 'cheat'
-# brew 'lazygit'
 # brew 'ngrok'
 # brew 'diff-so-fancy'
