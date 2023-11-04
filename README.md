@@ -1,3 +1,5 @@
+# Linux Brews
+
 Ce script permet d'automatiser l'installation et la mise à jour via [Homebrew](https://brew.sh "Homebrew — The missing package manager for macOS (or Linux)") de logiciels que j'utilise habituellement sur Linux (Debian) et qui ne sont pas disponibles via `apt` (ou alors dans des versions obsolètes).
 
 ## Prérequis
@@ -15,13 +17,14 @@ Ce script permet d'automatiser l'installation et la mise à jour via [Homebrew](
 - Ou lancez directement son exécution :
 
 ```shell
-$ curl -sfL https://raw.githubusercontent.com/juliennicouleaud/linux-Brews/master/run.sh | sh
+curl -sfL https://raw.githubusercontent.com/juliennicouleaud/linux-Brews/master/run.sh | sh
 ```
 
 Le script fonctionnera largement sans votre intervention, sauf :
-  - pour valider l'installation de Homebrew
-  - pour saisir le mot de passe administrateur pour Homebrew
-  - pour certains logiciels qui nécessitent un accès admin
+
+- pour valider l'installation de Homebrew
+- pour saisir le mot de passe administrateur pour Homebrew
+- pour certains logiciels qui nécessitent un accès admin
 
 ## Support
 
